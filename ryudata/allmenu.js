@@ -1,7 +1,8 @@
 exports.allmenu = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
-
+Instagram : _@ruka.nime7_
+my web : yuri-neko.github.io
+my api : wibuteam.herokuapp.com
 *👤 OWNER MENU*
 ⚘👾 ${prefix}chat [option]
 ⚘👾 ${prefix}join [link]
@@ -209,7 +210,6 @@ Instagram : @Fandyyy._
 ⚘👾 ${prefix}report
 ⚘👾 ${prefix}req
 
-Fitur Nya Masih Dikit Jadi
-Subscribe For Update 🤙
+Fitur Nya Masih Dikit
 `
 }
